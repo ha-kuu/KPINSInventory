@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232023606113",
+    "firebase_url": "https://kpins-inventory.firebaseio.com",
+    "project_id": "kpins-inventory",
+    "storage_bucket": "kpins-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232023606113:android:f67de357d48652236fbb20",
+        "android_client_info": {
+          "package_name": "com.example.kpinsinventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232023606113-u3hk63v105gha5kqugrgsa2prnihlkvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBdJEOEvetPFrsXB38UCVpoIH1-CLvPYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232023606113-u3hk63v105gha5kqugrgsa2prnihlkvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
